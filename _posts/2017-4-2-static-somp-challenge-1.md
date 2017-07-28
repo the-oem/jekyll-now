@@ -10,4 +10,5 @@ This is the Static Comp Challenge 1 that was assigned during our 3rd week of cla
 ![original comp](https://the-oem.github.io/jc-comp-challenge-1/images/screenshots/original_comp.png)
 
 #### My Version
+You can find my code repository for the Static Comp Challenge 1 [here](https://github.com/the-oem/jc-comp-challenge-1).
 ![my comp](https://the-oem.github.io/jc-comp-challenge-1/images/screenshots/example_laptop.png)
